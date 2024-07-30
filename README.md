@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**lenaluba/lenaluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elena, recent graduate of the University of Vienna with a Master's in Business Analytics.
 
-Here are some ideas to get you started:
+My passion lies at the intersection of **data science**, **machine learning**, and **customer analysis**. I am deeply fascinated by the narratives that numbers and statistics reveal about the world, human behavior, and societal trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Fascinations:
+
+- 🚀 **Transformers in Time Series Analysis**: Commonly used in language tasks, I love how versatile they actually are and how well they work for all kinds of sequential data
+- 🤝 **The Wisdom of the Crowd Effect**: The way collective decision-making can enhance prediction accuracy, even when individual estimates are varied
+- 🔍 **Impact of Recommendation Systems**: How these systems, while enhancing user experience, can inadvertently reinforce biases and limit exposure to diverse perspectives
+- ✏️ **Doodling for Infographics**: Exploring my creative side with creating visually engaging and informative infographics from cratch
+
+## Let's Connect!
